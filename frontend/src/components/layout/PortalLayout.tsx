@@ -62,7 +62,7 @@ export default function PortalLayout() {
         </nav>
         
         <div className="p-4 border-t border-slate-800 text-xs text-slate-500 flex flex-col gap-4 shrink-0 bg-slate-900 pb-safe">
-          <a href="https://github.com/aizik-fridman/oss-tools" target="_blank" rel="noreferrer" className="flex items-center justify-center gap-2 px-3 py-2.5 bg-slate-800/50 hover:bg-slate-800 text-slate-300 hover:text-white rounded-lg transition-colors border border-slate-700/50 font-medium">
+          <a href="https://github.com/aizikfriedman/oss-tools" target="_blank" rel="noreferrer" className="flex items-center justify-center gap-2 px-3 py-2.5 bg-slate-800/50 hover:bg-slate-800 text-slate-300 hover:text-white rounded-lg transition-colors border border-slate-700/50 font-medium">
             <Code2 size={16} />
             <span>Open Source Project</span>
           </a>
@@ -112,8 +112,8 @@ export default function PortalLayout() {
                   <strong className="text-slate-300">Disclaimer:</strong> This site was created with the assistance of AI for personal purposes. 
                   If you found it helpful or encountered a bug, please report it here:
                   <br/>
-                  <a href="https://github.com/aizik-fridman/oss-tools/issues" target="_blank" rel="noreferrer" className="text-sky-400 hover:underline mt-1 inline-block">
-                    github.com/aizik-fridman/oss-tools/issues
+                  <a href="https://github.com/aizikfriedman/oss-tools/issues" target="_blank" rel="noreferrer" className="text-sky-400 hover:underline mt-1 inline-block">
+                    github.com/aizikfriedman/oss-tools/issues
                   </a>
                 </p>
                 
